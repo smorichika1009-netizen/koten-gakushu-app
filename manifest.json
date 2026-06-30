@@ -1,0 +1,17 @@
+{
+  "name": "基礎古典学習アプリ",
+  "short_name": "基礎古典",
+  "description": "古典文法・古文単語・文学史・和歌・作品理解の知識カードと一問一答",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3e7ff",
+  "theme_color": "#cdb6ff",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
